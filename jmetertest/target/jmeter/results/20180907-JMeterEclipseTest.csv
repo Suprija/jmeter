@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1536317294949,2091,HTTP Request,200,OK,Eclipse Test 1-1,text,true,,15404,232,1,1,912,0,586
+1536317300910,1548,HTTP Request,200,OK,Eclipse Test 1-2,text,true,,15441,232,1,1,601,0,299
+1536317306900,1506,HTTP Request,200,OK,Eclipse Test 1-3,text,true,,15420,232,1,1,589,0,290
+1536317312905,1528,HTTP Request,200,OK,Eclipse Test 1-4,text,true,,15405,232,1,1,585,0,289
+1536317318909,1547,HTTP Request,200,OK,Eclipse Test 1-5,text,true,,15472,232,1,1,607,0,300
